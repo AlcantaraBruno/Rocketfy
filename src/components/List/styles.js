@@ -6,7 +6,7 @@ export const Container = styled.div`
 
     /* flex escrito dessa forma é o mesmo que o flex-grow, flex-shrink, flex-basis*/
     flex : 0 0 320px;
-    
+    opacity: ${props => props.done ? 0.6 : 1};    
 
     /* & permite selecionar elementos especificos para receber estilizações */
     & + div {
