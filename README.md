@@ -1,4 +1,4 @@
-# Rocketfy
+# Rocketfy UI
 Rocketfy is a UI project in React JS inspired by Pipefy for the purpose of studying technology.
 
 ## Available Scripts
